@@ -1,13 +1,12 @@
 package org.launchcode.techjobs.console;
-        import java.util.ArrayList;
-        import java.util.HashMap;
-        import java.util.Map;
-        import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
 /**
  * Created by LaunchCode
  */
-public class
-        TechJobs {
+public class TechJobs {
     private static Scanner in = new Scanner(System.in);
     public static void main(String[] args) {
         // Initialize our field map with key/name pairs
@@ -99,8 +98,5 @@ public class
             }            System.out.println("*****");        }
     }
 }
-
-
-
 
 
